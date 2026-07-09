@@ -4,18 +4,20 @@ A RESTful ASP.NET Core Web API for managing products in an inventory system. The
 
 ---
 
-##  Table of Contents
+## Table of Contents
 
-- Features
-- Technologies Used
-- Architecture
-- Installation
-- Configuration
-- Database
-- Running the Project
-- API Endpoints
-- Project Structure
-- Future Improvements
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Architecture](#architecture)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Database](#database)
+- [Running the Project](#running-the-project)
+- [API Endpoints](#api-endpoints)
+- [Project Structure](#project-structure)
+- [Future Improvements](#future-improvements)
+- [Learning Goals](#learning-goals)
+- [License](#license)
 
 ---
 
